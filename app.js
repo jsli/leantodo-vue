@@ -1,6 +1,6 @@
 AV.init({
-  appId: 'ozewwcwsyq92g2hommuxqrqzg6847wgl8dtrac6suxzko333',
-  appKey: 'ni0kwg7h8hwtz6a7dw9ipr7ayk989zo5y8t0sn5gjiel6uav',
+  appId: 'cjOXLUU4w6XcD4cuT0tCX06c-gzGzoHsz',
+  appKey: 'lPjl73q4iYvOJUdczEqcDy94',
 })
 
 var Todo = AV.Object.extend('Todo')
